@@ -1,0 +1,1 @@
+DiskPart /S C:\Users\INDRA\Downloads\rshd-1.7\bin\sample.txt 
